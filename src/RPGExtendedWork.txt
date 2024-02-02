@@ -1,0 +1,28 @@
+Partner 1: Nirbhay Malhotra
+nmalhotr@bu.edu
+U42321017
+Partner 2: 
+Ruifeng Lyu <lyuruife@bu.edu>
+U37096168
+Design Choice: 
+The Board and other classes required for making the Legends of Valor were extracted from the 
+Partner1 's Legends of Monsters and Heroes and were modified in order to make it scalable and extendable with the help of Partner 2 .
+We altered some of the classes to make it highlight the strategy pattern at various places to make the classes easily accessible and include abstract classes. 
+Partner1's Game had already a plethora of ways to extend into other games, with added bonuses .
+Also it was easily moldable into the specified Legends of Valor without much modification to the classes.
+ Also Adding to the Partner1’s board new techniques for teleportation and movement and assigning lanes and borders was not such a hard task.
+ Also since Partner 1 already had the knowledge on how to extend the battle from single to many players then it wasn’t such a hard task to divide it into individual player battles.
+ Choosing this helped in including various new things and the following can be further extended into a larger game with multiple new functions if more time was provided. 
+Also the following had abstract classes to help in inheritance and interfaces. Now the following Legends of Valor works appropriately and can be extended and scaled without much hassle.
+ We used abstraction, Encapsulation, Inheritance, Polymorphism and implemented strategy pattern for the following project to work as appropriately as possible. 
+Partner 1’s projects implementation had a better overall design and a more integrated battle implementation with additional contents of inventories and randomly generated monster types and further more options offered to the players which made the game more interesting and playable. 
+In addition, we think the market part of the Partner1’s Implementation of the previous RPG Game can be easily transformed into a MOBA game which allows heroes to both spawn and use market at the nexus. 
+The following Project file now can be used to further make the villains more dangerous by adding the teleportation to them and also we can also add a special attack for each of the three heroes.
+Loosely Coupled Idea was implemented in the following project because it is easier to test and maintain. 
+Interfaces in the following project are used for decoupling and classes communicate through interfaces implementing strategy pattern for various classes. 
+Therefore, making the classes extendable and easily to modify without changing in other classes too. 
+Making it easy for us to implement two types of teleportation and teleporting back to the origin and also spawning back to the nexus based on the board used for the following.
+Also allowing for implementing a difficulty level for the games, Helping in changing the villain difficulty with ease. 
+Overall the previous game design helped in modifying the following game in order to meet the assignment requirements by using more interfaces and loose coupling. Also yes the decision taken was beneficial in implementing the following project . 
+
+
